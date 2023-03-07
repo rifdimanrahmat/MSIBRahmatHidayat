@@ -1,0 +1,4 @@
+ini adalah file cabang
+perintah membuat branch ketika di lokal adalah git branch nama_branch 
+setiap file yang ada di branch tidak terlihat di master
+kecuali..
